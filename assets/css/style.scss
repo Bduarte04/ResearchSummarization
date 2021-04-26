@@ -5,15 +5,13 @@
 
 body {
     color:white;
-    background-color: rgba(0,0,0,0.75);
-}
-
-#content {  
+    background-color: rgba(0,0,0,0.75); 
     background-image: url('../img/linebackground.svg');
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 
 .page-header {
     background-color: #333;
