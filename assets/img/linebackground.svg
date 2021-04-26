@@ -3,8 +3,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 841.89 300" style="enable-background:new 0 0 841.89 300;" xml:space="preserve">
 <style type="text/css">
-	.st0{opacity:0.75;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
-	.st1{opacity:0.74;fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#333333;stroke-width:5;stroke-miterlimit:10;}
 </style>
 <circle class="st0" cx="91.23" cy="143.13" r="12.55"/>
 <circle class="st0" cx="197.65" cy="31.41" r="12.55"/>
@@ -17,6 +16,6 @@
 <line class="st0" x1="310.22" y1="93.72" x2="399.11" y2="76.73"/>
 <line class="st0" x1="424.21" y1="76.73" x2="518.35" y2="253.33"/>
 <line class="st0" x1="541.02" y1="247.57" x2="630.61" y2="139.46"/>
-<circle class="st1" cx="764.11" cy="51.63" r="12.55"/>
+<circle class="st0" cx="764.11" cy="51.63" r="12.55"/>
 <line class="st0" x1="652.03" y1="123.93" x2="751.56" y2="55.29"/>
 </svg>
